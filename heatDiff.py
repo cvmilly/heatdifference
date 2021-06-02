@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Vivian Martinez, vcm17b
+# VM
 
 
 import os
